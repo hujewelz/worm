@@ -2,7 +2,7 @@
 
 import Quick
 import Nimble
-import worm
+import Worm
 
 class TableOfContentsSpec: QuickSpec {
     override func spec() {

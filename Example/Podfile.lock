@@ -1,0 +1,22 @@
+PODS:
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - Worm (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+  - Worm (from `../`)
+
+EXTERNAL SOURCES:
+  Worm:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  Worm: a8e45e086dca3280a94fcaa7281e5058105db8b9
+
+PODFILE CHECKSUM: 371fe61e14b67f35f5f48404e3f6c90b35038d69
+
+COCOAPODS: 1.3.1
