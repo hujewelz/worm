@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'Worm'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of worm.'
+  s.summary          = 'Redux in Swift.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,8 +25,8 @@ The Worm is a framework which can diplay your app.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'hujewelz' => 'hujewelz@163.com' }
-  s.source           = { :git => 'https://github.com/huluobo/worm.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/hujewelz/worm.git', :tag => s.version.to_s }
+  s.social_media_url = 'https://twitter.com/huluoboboo'
 
   s.ios.deployment_target = '8.0'
 
